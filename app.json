@@ -26,7 +26,7 @@
       "package": "com.smilegift.mobile"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": ""
     },
     "plugins": [
       "expo-router"
