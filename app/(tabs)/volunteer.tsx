@@ -27,22 +27,22 @@ export default function VolunteerScreen() {
             <List.Item
               title="Cơ hội trải nghiệm thực tế"
               description="Tham gia các hoạt động cộng đồng ý nghĩa"
-              left={(props) => <MaterialIcons name="volunteer-activism" size={24} color="#2D6135" />}
+              left={(props) => <MaterialIcons name="volunteer-activism\" size={24} color="#2D6135" />}
             />
             <List.Item
               title="Phát triển kỹ năng"
               description="Teamwork, tổ chức sự kiện, giao tiếp"
-              left={(props) => <MaterialIcons name="trending-up" size={24} color="#2D6135" />}
+              left={(props) => <MaterialIcons name="trending-up\" size={24} color="#2D6135" />}
             />
             <List.Item
               title="Giấy chứng nhận"
               description="Chứng nhận tham gia các hoạt động"
-              left={(props) => <MaterialIcons name="card-membership" size={24} color="#2D6135" />}
+              left={(props) => <MaterialIcons name="card-membership\" size={24} color="#2D6135" />}
             />
             <List.Item
               title="Gia đình Smile Gift"
               description="Một gia đình đầy tiếng cười và sự tử tế"
-              left={(props) => <MaterialIcons name="family-restroom" size={24} color="#2D6135" />}
+              left={(props) => <MaterialIcons name="family-restroom\" size={24} color="#2D6135" />}
             />
           </Card.Content>
         </Card>
@@ -58,22 +58,22 @@ export default function VolunteerScreen() {
             <List.Item
               title="Ban Văn nghệ"
               description="Ca sĩ, nhạc công, diễn viên"
-              left={(props) => <MaterialIcons name="music-note" size={24} color="#F5A623" />}
+              left={(props) => <MaterialIcons name="music-note\" size={24} color="#F5A623" />}
             />
             <List.Item
               title="Ban Media"
               description="Nhiếp ảnh, quay phim, thiết kế"
-              left={(props) => <MaterialIcons name="camera-alt" size={24} color="#F5A623" />}
+              left={(props) => <MaterialIcons name="camera-alt\" size={24} color="#F5A623" />}
             />
             <List.Item
               title="Ban Tổ chức"
               description="Hỗ trợ tổ chức sự kiện, logistics"
-              left={(props) => <MaterialIcons name="event" size={24} color="#F5A623" />}
+              left={(props) => <MaterialIcons name="event\" size={24} color="#F5A623" />}
             />
             <List.Item
               title="Công quả"
               description="Phát cơm, dọn dẹp, hỗ trợ người già"
-              left={(props) => <MaterialIcons name="volunteer-activism" size={24} color="#F5A623" />}
+              left={(props) => <MaterialIcons name="volunteer-activism\" size={24} color="#F5A623" />}
             />
           </Card.Content>
         </Card>

@@ -45,24 +45,24 @@ export default function MoreScreen() {
           <List.Item
             title="Quyên góp"
             description="Ủng hộ các hoạt động thiện nguyện"
-            left={(props) => <MaterialIcons name="volunteer-activism" size={24} color="#2D6135" />}
-            right={(props) => <MaterialIcons name="chevron-right" size={24} color="#7B7B7B" />}
+            left={(props) => <MaterialIcons name="volunteer-activism\" size={24} color="#2D6135" />}
+            right={(props) => <MaterialIcons name="chevron-right\" size={24} color="#7B7B7B" />}
             onPress={() => {/* Navigate to donate */}}
           />
           <Divider />
           <List.Item
             title="Báo cáo tài chính"
             description="Xem báo cáo minh bạch"
-            left={(props) => <MaterialIcons name="assessment" size={24} color="#2D6135" />}
-            right={(props) => <MaterialIcons name="chevron-right" size={24} color="#7B7B7B" />}
+            left={(props) => <MaterialIcons name="assessment\" size={24} color="#2D6135" />}
+            right={(props) => <MaterialIcons name="chevron-right\" size={24} color="#7B7B7B" />}
             onPress={() => {/* Navigate to reports */}}
           />
           <Divider />
           <List.Item
             title="Thư viện ảnh"
             description="Xem hình ảnh hoạt động"
-            left={(props) => <MaterialIcons name="photo-library" size={24} color="#2D6135" />}
-            right={(props) => <MaterialIcons name="chevron-right" size={24} color="#7B7B7B" />}
+            left={(props) => <MaterialIcons name="photo-library\" size={24} color="#2D6135" />}
+            right={(props) => <MaterialIcons name="chevron-right\" size={24} color="#7B7B7B" />}
             onPress={() => {/* Navigate to gallery */}}
           />
         </Card>
@@ -77,28 +77,28 @@ export default function MoreScreen() {
           <List.Item
             title="Hotline"
             description="0355.749.581"
-            left={(props) => <MaterialIcons name="phone" size={24} color="#2D6135" />}
+            left={(props) => <MaterialIcons name="phone\" size={24} color="#2D6135" />}
             onPress={handleCall}
           />
           <Divider />
           <List.Item
             title="Email"
             description="smilegift.vn@gmail.com"
-            left={(props) => <MaterialIcons name="email" size={24} color="#2D6135" />}
+            left={(props) => <MaterialIcons name="email\" size={24} color="#2D6135" />}
             onPress={handleEmail}
           />
           <Divider />
           <List.Item
             title="Facebook"
             description="facebook.com/smilegift.sg"
-            left={(props) => <MaterialIcons name="facebook" size={24} color="#2D6135" />}
+            left={(props) => <MaterialIcons name="facebook\" size={24} color="#2D6135" />}
             onPress={handleFacebook}
           />
           <Divider />
           <List.Item
             title="Địa điểm hoạt động"
             description="TP.HCM – An Giang – các tỉnh miền Tây"
-            left={(props) => <MaterialIcons name="location-on" size={24} color="#2D6135" />}
+            left={(props) => <MaterialIcons name="location-on\" size={24} color="#2D6135" />}
           />
         </Card>
       </View>
@@ -141,19 +141,19 @@ export default function MoreScreen() {
           <List.Item
             title="Phiên bản"
             description="1.0.0"
-            left={(props) => <MaterialIcons name="info" size={24} color="#2D6135" />}
+            left={(props) => <MaterialIcons name="info\" size={24} color="#2D6135" />}
           />
           <Divider />
           <List.Item
             title="Điều khoản sử dụng"
-            left={(props) => <MaterialIcons name="description" size={24} color="#2D6135" />}
-            right={(props) => <MaterialIcons name="chevron-right" size={24} color="#7B7B7B" />}
+            left={(props) => <MaterialIcons name="description\" size={24} color="#2D6135" />}
+            right={(props) => <MaterialIcons name="chevron-right\" size={24} color="#7B7B7B" />}
           />
           <Divider />
           <List.Item
             title="Chính sách bảo mật"
-            left={(props) => <MaterialIcons name="privacy-tip" size={24} color="#2D6135" />}
-            right={(props) => <MaterialIcons name="chevron-right" size={24} color="#7B7B7B" />}
+            left={(props) => <MaterialIcons name="privacy-tip\" size={24} color="#2D6135" />}
+            right={(props) => <MaterialIcons name="chevron-right\" size={24} color="#7B7B7B" />}
           />
         </Card>
       </View>
